@@ -1,7 +1,7 @@
 {
     "code": 200,
     "data": {
-        "host_url": "https://gitee.com/dake/ShuPlistServer/raw/master/",
+        "host_url": "https://raw.githubusercontent.com/PixelCyber/ShuPlistServer/master/",
         "plist_list":
         [
          {
