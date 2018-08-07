@@ -1,0 +1,41 @@
+{
+    "code": 200,
+    "data": {
+        "host_url": "https://gitee.com/dake/ShuPlistServer/raw/master/nossl/",
+        "plist_list":
+        [
+         {
+         "ipa_file": "ipa/1.ipa",
+         "path": "plist/1.plist",
+         },
+         {
+         "ipa_file": "ipa/2.ipa",
+         "path": "plist/2.plist",
+         },
+         {
+         "ipa_file": "ipa/3.ipa",
+         "path": "plist/3.plist",
+         },
+         {
+         "ipa_file": "ipa/4.ipa",
+         "path": "plist/4.plist",
+         },
+         {
+         "ipa_file": "ipa/5.ipa",
+         "path": "plist/5.plist",
+         },
+         {
+         "ipa_file": "ipa/6.ipa",
+         "path": "plist/6.plist",
+         },
+         {
+         "ipa_file": "ipa/7.ipa",
+         "path": "plist/7.plist",
+         },
+         {
+         "ipa_file": "ipa/8.ipa",
+         "path": "plist/8.plist",
+         },
+         ],
+    },
+}
